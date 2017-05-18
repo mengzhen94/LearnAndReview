@@ -59,7 +59,7 @@ Chrome Dev Tools
 Git
 
 ## Youtube
-ES6
+ES6 ✅
 
 Laravel review
 
