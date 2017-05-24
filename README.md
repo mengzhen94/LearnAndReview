@@ -9,7 +9,7 @@ Front End Frameworks: SPA Angular ✅
 
 Client-Server Communication: HTTP HTTPS Security ✅
 
-Website Performance Optimization: speed and delivery
+Website Performance Optimization: speed and delivery ✅
 
 Technical Interview: Data Structure and basic algorithms
 
